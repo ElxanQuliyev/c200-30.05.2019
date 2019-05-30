@@ -12,6 +12,6 @@
 </ul>
 </li>
 <li>
-<p>Təkrar üçün display: <em>flex, ::after, ::before</em> mövzularını css-tricks saytından oxuyun.</p>
+<p>display: <em>flex, ::after, ::before</em> mövzularını css-tricks saytından oxuyun.</p>
 </li>
 </ul>
