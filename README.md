@@ -1,7 +1,7 @@
 # c200-30.05.2019
 <ul>
 <li>
-<p> "OUR AMAZING TEAM" hissəsinə qədər hamısını bitirin və SASS-da yazın.</p>
+<p> "OUR AMAZING TEAM" hissəsinə qədər bitirməlisiz və SASS-da yazın.</p>
 <p><a href="https://blackrockdigital.github.io/startbootstrap-agency/" rel="nofollow">https://blackrockdigital.github.io/startbootstrap-agency/</a></p>
 </li>
 <li>
